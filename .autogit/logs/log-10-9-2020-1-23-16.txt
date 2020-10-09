@@ -1,0 +1,23 @@
+-------------------- Auto-Git Log --------------------
+		Sat Oct 10 2020 01:23:16 GMT+0300 (East Africa Time)
+------------------------------------------------------
+
+Modified files:
+* src/app/app.component.html
+* src/app/app.component.spec.ts
+* src/app/app.component.ts
+* src/app/app.module.ts
+
+
+Created files:
+* .autogit/autogit.json
+* src/app/current-weather/current-weather.component.css
+* src/app/current-weather/current-weather.component.html
+* src/app/current-weather/current-weather.component.spec.ts
+* src/app/current-weather/current-weather.component.ts
+
+
+Deleted files:
+
+
+Renamed files:
